@@ -10,3 +10,6 @@ python3 show_version.py
 ## Cara Pakai
 python3 netmiko_show_version.py
 
+### Requirement
+```bash
+pip install netmiko
