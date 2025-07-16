@@ -5,6 +5,8 @@ kumpulan script belajar esa
 - `show_version.py`: ambil versi OS router Cisco
 
 ## Cara Pakai
-```bash
 python3 show_version.py
-'''bash
+
+## Cara Pakai
+python3 netmiko_show_version.py
+
